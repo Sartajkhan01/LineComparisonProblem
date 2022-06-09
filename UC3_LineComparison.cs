@@ -1,0 +1,68 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Day_3_Assignment
+{
+    internal class UC3_LineComparison
+    {
+
+        class Program
+        {
+            public void TwoLineCompare()
+            {
+                Console.WriteLine("Hello Welcome to LCP");
+                Console.WriteLine("Enter the coordiates");
+
+                double x1, y1, x2, y2, length_1;
+
+                Console.WriteLine("enter x1 ");
+                x1 = Convert.ToDouble(Console.ReadLine());
+
+                Console.WriteLine("enter y1 ");
+                y1 = Convert.ToDouble(Console.ReadLine());
+
+                Console.WriteLine("enter x2 ");
+                x2 = Convert.ToDouble(Console.ReadLine());
+
+                Console.WriteLine("enter y2 ");
+                y2 = Convert.ToDouble(Console.ReadLine());
+
+                double m1, m2, n1, n2, length_2;
+
+                Console.WriteLine("enter m1 ");
+                m1 = Convert.ToDouble(Console.ReadLine());
+
+                Console.WriteLine("enter n1 ");
+                n1 = Convert.ToDouble(Console.ReadLine());
+
+                Console.WriteLine("enter m2 ");
+                m2 = Convert.ToDouble(Console.ReadLine());
+
+                Console.WriteLine("enter n2 ");
+                n2 = Convert.ToDouble(Console.ReadLine());
+
+                length_1 = Math.Sqrt(((x2 - x1) * (x2 - x1)) + ((y2 - y1) * (y2 - y1)));
+                //Console.WriteLine("Legth of Line is:" + length1);
+
+                length_2 = Math.Sqrt(((m2 - m1) * (m2 - m1)) + ((n2 - n1) * (n2 - n1)));
+
+                if (length_1 == length_2)
+                {
+                    Console.WriteLine("Lines are of equal length");
+                }
+                else if (length_1 > length_2)
+                {
+                    Console.WriteLine("Line1 is bigger than Line2");
+                }
+                else
+                {
+                    Console.WriteLine("Line2 is bigger than Line1");
+                }
+            }
+        }
+    }
+}
+           
