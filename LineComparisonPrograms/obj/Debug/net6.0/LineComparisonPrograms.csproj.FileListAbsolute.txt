@@ -1,0 +1,15 @@
+C:\Users\Sartaj khan\source\repos\LineComparisonPrograms\LineComparisonPrograms\bin\Debug\net6.0\LineComparisonPrograms.exe
+C:\Users\Sartaj khan\source\repos\LineComparisonPrograms\LineComparisonPrograms\bin\Debug\net6.0\LineComparisonPrograms.deps.json
+C:\Users\Sartaj khan\source\repos\LineComparisonPrograms\LineComparisonPrograms\bin\Debug\net6.0\LineComparisonPrograms.runtimeconfig.json
+C:\Users\Sartaj khan\source\repos\LineComparisonPrograms\LineComparisonPrograms\bin\Debug\net6.0\LineComparisonPrograms.dll
+C:\Users\Sartaj khan\source\repos\LineComparisonPrograms\LineComparisonPrograms\bin\Debug\net6.0\LineComparisonPrograms.pdb
+C:\Users\Sartaj khan\source\repos\LineComparisonPrograms\LineComparisonPrograms\obj\Debug\net6.0\LineComparisonPrograms.csproj.AssemblyReference.cache
+C:\Users\Sartaj khan\source\repos\LineComparisonPrograms\LineComparisonPrograms\obj\Debug\net6.0\LineComparisonPrograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sartaj khan\source\repos\LineComparisonPrograms\LineComparisonPrograms\obj\Debug\net6.0\LineComparisonPrograms.AssemblyInfoInputs.cache
+C:\Users\Sartaj khan\source\repos\LineComparisonPrograms\LineComparisonPrograms\obj\Debug\net6.0\LineComparisonPrograms.AssemblyInfo.cs
+C:\Users\Sartaj khan\source\repos\LineComparisonPrograms\LineComparisonPrograms\obj\Debug\net6.0\LineComparisonPrograms.csproj.CoreCompileInputs.cache
+C:\Users\Sartaj khan\source\repos\LineComparisonPrograms\LineComparisonPrograms\obj\Debug\net6.0\LineComparisonPrograms.dll
+C:\Users\Sartaj khan\source\repos\LineComparisonPrograms\LineComparisonPrograms\obj\Debug\net6.0\refint\LineComparisonPrograms.dll
+C:\Users\Sartaj khan\source\repos\LineComparisonPrograms\LineComparisonPrograms\obj\Debug\net6.0\LineComparisonPrograms.pdb
+C:\Users\Sartaj khan\source\repos\LineComparisonPrograms\LineComparisonPrograms\obj\Debug\net6.0\LineComparisonPrograms.genruntimeconfig.cache
+C:\Users\Sartaj khan\source\repos\LineComparisonPrograms\LineComparisonPrograms\obj\Debug\net6.0\ref\LineComparisonPrograms.dll
